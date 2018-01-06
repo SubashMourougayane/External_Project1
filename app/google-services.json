@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79775009445",
+    "firebase_url": "https://andre-eea39.firebaseio.com",
+    "project_id": "andre-eea39",
+    "storage_bucket": "andre-eea39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79775009445:android:98a68cab602e198d",
+        "android_client_info": {
+          "package_name": "com.example.msuba.andre_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79775009445-3tjcs0v54pa859gijj2rkh46rhf63vvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_4u5crIWrJxMFvP1_ixxIOya3KbfVt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
